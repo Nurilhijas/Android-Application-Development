@@ -1,6 +1,8 @@
 # Android-Application-Development
-This folder contains all Android Application
-Steps involved to run the application 
+This folder contains all Android Application.
+
+Steps involved to run the application.
+
 Step1: To insatll the Android Studio and install all the component as new versions. 
 
 Step2: Select the correct version for your mobile. 
